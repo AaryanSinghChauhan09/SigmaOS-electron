@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-electron"
+version = "0.1.0"
+category = "platform"
+description = "Electron desktop web application runtime for SigmaOS"
